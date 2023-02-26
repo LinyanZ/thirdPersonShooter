@@ -1,6 +1,6 @@
 # Third Person Shooter
 
-This is part of my report for the university subject **COMP30019 - Graphics and Interaction**, uploaded for my [portfolio](https://linyanzhu.com).
+This is part of my report for the university subject **COMP30019 - Graphics and Interaction**, uploaded for my [portfolio](https://linyanzhu.com). The actual code is hidden on purpose as this is one of my university assignments.
 
 ## Table of contents
 
